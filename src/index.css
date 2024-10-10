@@ -150,7 +150,8 @@ button{
     font-size: 0.9rem; /* Adjust font size for buttons */
   }
   .revealAnswers{
-   height: 50px;
+   height: auto;
+   width: auto;
   }
   button{
     width: auto;

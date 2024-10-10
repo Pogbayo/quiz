@@ -218,7 +218,7 @@ export const questions = [
       ],
     },
     {
-      questionText: "Who wicked pass?",
+      questionText: "Who wicked pass Pharoah for here?",
       answerOptions: [
         { answerText: "Ten Haag", isCorrect: true },
         { answerText: "T-pain", isCorrect: false },
