@@ -127,3 +127,24 @@ button{
   font-weight: 700;
   font-size: 1.5rem; 
 }
+@media (max-width: 768px) {
+  /* Adjust styles for smaller screens */
+
+  .app {
+    width: 90%; /* Make the app wider on smaller screens */
+  }
+
+  .quizHeader h1 {
+    font-size: 1.5rem; /* Adjust font size for smaller screens */
+  }
+
+  .qText {
+    font-size: 1.2rem; /* Adjust font size for readability */
+  }
+
+  .options {
+    font-size: 0.9rem; /* Adjust font size for buttons */
+  }
+
+  /* Add more styles for other elements as needed */
+}
