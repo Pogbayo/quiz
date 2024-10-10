@@ -133,7 +133,7 @@ button{
   /* Adjust styles for smaller screens */
 
   .app {
-    width: 90%; 
+    width: auto; 
     position: relative;
     left: 10px;/* Make the app wider on smaller screens */
   }
@@ -151,7 +151,10 @@ button{
   }
   .revealAnswers{
    height: 50px;
-
+  }
+  button{
+    width: auto;
+    height: auto;
   }
   /* Add more styles for other elements as needed */
 }
