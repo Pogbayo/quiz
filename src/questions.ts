@@ -74,7 +74,7 @@ export const questions = [
     {
       questionText: "Who was the first African player to win the Ballon d'Or?",
       answerOptions: [
-        { answerText: "Smauel Eto", isCorrect: false },
+        { answerText: "Samuel Eto", isCorrect: false },
         { answerText: "George Weah", isCorrect: true },
         { answerText: "Victor Boniface", isCorrect: false },
         { answerText: "Riyadh Mahrez", isCorrect: false },
