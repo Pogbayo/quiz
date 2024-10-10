@@ -131,7 +131,9 @@ button{
   /* Adjust styles for smaller screens */
 
   .app {
-    width: 90%; /* Make the app wider on smaller screens */
+    width: 90%; 
+    position: relative;
+    left: 10px;/* Make the app wider on smaller screens */
   }
 
   .quizHeader h1 {
@@ -145,6 +147,9 @@ button{
   .options {
     font-size: 0.9rem; /* Adjust font size for buttons */
   }
+  .revealAnswers{
+   height: 50px;
 
+  }
   /* Add more styles for other elements as needed */
 }
